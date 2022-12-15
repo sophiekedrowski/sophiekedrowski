@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# Welcome to my github page!
-# Currently looking for work as a full stack developer!
+### Welcome to my github page!
+### Currently looking for work as a full stack developer!
 
 
 
