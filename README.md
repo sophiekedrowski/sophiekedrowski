@@ -13,7 +13,7 @@
 - In my free time you can find me rock climbing 🧗🏼‍♀️
 
 ### Follow me on social media to see what I am up too!
-[![instagram](images/miniinsta.png)](https://www.instagram.com/skophssoph/) [![linkedin](images/linkedinlogo.png)](https://www.linkedin.com/in/sophie-kedrowski-0a5586130/)
+[![instagram](images/miniinsta.png)](https://www.instagram.com/skophssoph/) [![linkedin](images/linkedinlogo2.png)](https://www.linkedin.com/in/sophie-kedrowski-0a5586130/)
 
 ### Github Metrics📈
 ![Metrics](/github-metrics.svg)
