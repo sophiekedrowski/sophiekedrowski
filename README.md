@@ -1,8 +1,19 @@
-### Hi there 👋
+### Welcome to my github page!🍋
 
-### Welcome to my github page!
-### Currently looking for work as a full stack developer!
+![banner](images/Banner.png)
 
+- Pronouns: She/Her 💁🏼‍♀️
+
+
+### Currently looking for work as a full stack developer!🌟
+- Currently enrolled at the University of Minnesota coding bootcamp 📱
+
+- Working as observation unit nurse in St.Paul, Minnesota 🩺🩻
+
+- In my free time you can find me rock climbing 🧗🏼‍♀️
+
+### Follow me on social media to see what I am up too!
+[![instagram](images/miniinsta.png)](https://www.instagram.com/skophssoph/)
 
 
 
