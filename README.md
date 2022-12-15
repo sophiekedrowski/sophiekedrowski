@@ -15,6 +15,9 @@
 ### Follow me on social media to see what I am up too!
 [![instagram](images/miniinsta.png)](https://www.instagram.com/skophssoph/)
 
+### Github Metrics
+![Metrics](/github-metrics.svg)
+
 
 
 <!--
