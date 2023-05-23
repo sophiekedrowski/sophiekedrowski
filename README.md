@@ -6,7 +6,7 @@
 
 
 ### Currently looking for work as a full stack developer!🌟
-- Currently enrolled at the University of Minnesota coding bootcamp 📱
+- Recently finished a Full Stack Web Development Certificate through the University of Minnesota 📱
 
 - Working as observation unit nurse in St.Paul, Minnesota 🩺🩻
 
